@@ -1,0 +1,162 @@
+{
+  "problems": [
+    {
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/valid-palindrome/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/valid-palindrome.py",
+      "solved_at": "2025-09-07T18:46:37Z"
+    },
+    {
+      "slug": "container-with-most-water",
+      "title": "Container With Most Water",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/container-with-most-water/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/container-with-most-water.py",
+      "solved_at": "2025-09-07T16:59:07Z"
+    },
+    {
+      "slug": "merge-sorted-array",
+      "title": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/merge-sorted-array/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/merge-sorted-array.cpp",
+      "solved_at": "2025-03-01T23:37:32Z"
+    },
+    {
+      "slug": "search-insert-position",
+      "title": "Search Insert Position",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/search-insert-position/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/search-insert-position.cpp",
+      "solved_at": "2025-03-01T23:12:13Z"
+    },
+    {
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/two-sum/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/two-sum.cpp",
+      "solved_at": "2025-03-01T22:56:13Z"
+    },
+    {
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "title": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "tags": [
+        "Two Pointers",
+        "String",
+        "String Matching"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/find-the-index-of-the-first-occurrence-in-a-string.cpp",
+      "solved_at": "2025-02-21T10:38:53Z"
+    },
+    {
+      "slug": "plus-one",
+      "title": "Plus One",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Math"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/plus-one/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/plus-one.cpp",
+      "solved_at": "2025-02-20T11:16:38Z"
+    },
+    {
+      "slug": "pascals-triangle-ii",
+      "title": "Pascal's Triangle II",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/pascals-triangle-ii.cpp",
+      "solved_at": "2025-02-19T13:05:59Z"
+    },
+    {
+      "slug": "pascals-triangle",
+      "title": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/pascals-triangle/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/pascals-triangle.cpp",
+      "solved_at": "2025-02-19T11:46:16Z"
+    },
+    {
+      "slug": "remove-element",
+      "title": "Remove Element",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/remove-element/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/remove-element.cpp",
+      "solved_at": "2025-02-19T10:10:16Z"
+    },
+    {
+      "slug": "remove-duplicates-from-sorted-array",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "language": "cpp",
+      "solution_path": "solutions/cpp/easy/remove-duplicates-from-sorted-array.cpp",
+      "solved_at": "2025-02-19T09:46:42Z"
+    },
+    {
+      "slug": "maximum-ascending-subarray-sum",
+      "title": "Maximum Ascending Subarray Sum",
+      "difficulty": "Easy",
+      "tags": [
+        "Array"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/maximum-ascending-subarray-sum/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/maximum-ascending-subarray-sum.py",
+      "solved_at": "2024-02-06T09:29:31Z"
+    }
+  ]
+}
