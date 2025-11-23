@@ -89,9 +89,10 @@ class LeetCodeClient:
         # Filter by time if specified
         if last_processed_time:
             cutoff_timestamp = int(datetime.fromisoformat(last_processed_time.replace("Z", "+00:00")).timestamp())
+            # Convert timestamp to int for comparison (it might be a string from API)
             accepted_submissions = [
                 s for s in accepted_submissions 
-                if s.get("timestamp", 0) > cutoff_timestamp
+                if int(s.get("timestamp", 0)) > cutoff_timestamp
             ]
             print(f"Found {len(accepted_submissions)} new submissions after {last_processed_time}")
         
@@ -102,9 +103,9 @@ class LeetCodeClient:
         problems_by_slug = {}
         for submission in accepted_submissions:
             slug = submission.get("titleSlug")
-            timestamp = submission.get("timestamp", 0)
+            timestamp = int(submission.get("timestamp", 0))
             
-            if slug not in problems_by_slug or timestamp > problems_by_slug[slug].get("timestamp", 0):
+            if slug not in problems_by_slug or timestamp > int(problems_by_slug[slug].get("timestamp", 0)):
                 problems_by_slug[slug] = submission
         
         print(f"Processing {len(problems_by_slug)} unique problems")
