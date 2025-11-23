@@ -1,12 +1,8 @@
-# LeetCode Daily Sync
+# LeetCode Progress Index
 
-This repository automatically syncs my solved LeetCode problems every day.
+Daily, an automated workflow captures newly accepted LeetCode solutions and records their metadata (difficulty, tags, timestamp, language) alongside the corresponding source file. The table below is the canonical, generated view of progress over time. It is rebuilt on each successful sync from the structured index in `metadata/problems_index.json`.
 
-## 📊 Progress Overview
-
-Track your LeetCode journey with automated daily syncs. Every solution is automatically organized by language and difficulty.
-
-## 🎯 Solved Problems
+## Solved Problems
 
 <!-- LEETCODE_TABLE_START -->
 | # | Title | Difficulty | Tags | LeetCode Link | My Solution | Solved On |
@@ -27,7 +23,7 @@ Track your LeetCode journey with automated daily syncs. Every solution is automa
 
 ---
 
-## 📁 Repository Structure
+## Repository Layout
 
 ```
 .
@@ -43,37 +39,19 @@ Track your LeetCode journey with automated daily syncs. Every solution is automa
 └── .github/workflows/   # Daily sync automation
 ```
 
-## 🤖 How It Works
+## Automation Summary
 
-This repository uses GitHub Actions to:
-1. Check LeetCode daily for newly solved problems
-2. Download solution code and metadata
-3. Organize files by language and difficulty
-4. Update this README with a summary table
-5. Commit and push changes automatically
+GitHub Actions (scheduled at 03:00 UTC) executes `scripts/sync.py`. The script:
+1. Loads prior state from `metadata/state.json`.
+2. Queries recent accepted submissions via LeetCode's GraphQL endpoints.
+3. Filters only truly new problems (by slug and timestamp).
+4. Writes/updates solution source files under `solutions/<language>/<difficulty>/`.
+5. Appends entries to `metadata/problems_index.json`.
+6. Regenerates the table between the markers below.
+7. Advances `metadata/state.json` only after successful write operations.
 
-## 🚀 Setup Instructions
-
-To set up this sync for your own account:
-
-1. **Fork this repository**
-
-2. **Get your LeetCode session cookie:**
-   - Log into LeetCode
-   - Open Developer Tools (F12) → Application → Cookies
-   - Copy the value of `LEETCODE_SESSION` cookie
-
-3. **Add GitHub Secrets:**
-   - Go to your repo → Settings → Secrets and variables → Actions
-   - Add these secrets:
-     - `LEETCODE_USERNAME`: Your LeetCode username
-     - `LEETCODE_SESSION`: The session cookie value
-
-4. **Enable GitHub Actions:**
-   - Go to Actions tab and enable workflows
-
-That's it! The sync will run daily at 3 AM UTC automatically.
+Idempotence is preserved: failed runs do not advance state; re-runs reconcile safely. The README is a pure projection—no manual edits are needed inside the marked region.
 
 ---
 
-*Last updated by LeetCode sync bot 🤖*
+*Last synchronized automatically.*
