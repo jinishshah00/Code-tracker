@@ -157,6 +157,63 @@
       "language": "python3",
       "solution_path": "solutions/python3/easy/maximum-ascending-subarray-sum.py",
       "solved_at": "2024-02-06T09:29:31Z"
+    },
+    {
+      "slug": "binary-search",
+      "title": "Binary Search",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/binary-search/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/binary-search.py",
+      "solved_at": "2025-11-24T02:52:11Z"
+    },
+    {
+      "slug": "trapping-rain-water",
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/trapping-rain-water.py",
+      "solved_at": "2025-11-24T01:42:47Z"
+    },
+    {
+      "slug": "3sum",
+      "title": "3Sum",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/3sum/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/3sum.py",
+      "solved_at": "2025-11-23T23:45:29Z"
+    },
+    {
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/two-sum-ii-input-array-is-sorted.py",
+      "solved_at": "2025-11-23T22:59:12Z"
     }
   ]
 }

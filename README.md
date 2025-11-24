@@ -19,6 +19,10 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 10 | Merge Sorted Array | Easy | Array, Two Pointers, Sorting | [Link](https://leetcode.com/problems/merge-sorted-array/) | [Solution](solutions/cpp/easy/merge-sorted-array.cpp) | 2025-03-01 23:37 UTC |
 | 11 | Container With Most Water | Medium | Array, Two Pointers, Greedy | [Link](https://leetcode.com/problems/container-with-most-water/) | [Solution](solutions/python3/medium/container-with-most-water.py) | 2025-09-07 16:59 UTC |
 | 12 | Valid Palindrome | Easy | Two Pointers, String | [Link](https://leetcode.com/problems/valid-palindrome/) | [Solution](solutions/python3/easy/valid-palindrome.py) | 2025-09-07 18:46 UTC |
+| 13 | Two Sum II - Input Array Is Sorted | Medium | Array, Two Pointers, Binary Search | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](solutions/python3/medium/two-sum-ii-input-array-is-sorted.py) | 2025-11-23 22:59 UTC |
+| 14 | 3Sum | Medium | Array, Two Pointers, Sorting | [Link](https://leetcode.com/problems/3sum/) | [Solution](solutions/python3/medium/3sum.py) | 2025-11-23 23:45 UTC |
+| 15 | Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Solution](solutions/python3/hard/trapping-rain-water.py) | 2025-11-24 01:42 UTC |
+| 16 | Binary Search | Easy | Array, Binary Search | [Link](https://leetcode.com/problems/binary-search/) | [Solution](solutions/python3/easy/binary-search.py) | 2025-11-24 02:52 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---
