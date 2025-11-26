@@ -214,6 +214,46 @@
       "language": "python3",
       "solution_path": "solutions/python3/medium/two-sum-ii-input-array-is-sorted.py",
       "solved_at": "2025-11-23T22:59:12Z"
+    },
+    {
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/find-minimum-in-rotated-sorted-array.py",
+      "solved_at": "2025-11-26T02:04:20Z"
+    },
+    {
+      "slug": "koko-eating-bananas",
+      "title": "Koko Eating Bananas",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/koko-eating-bananas/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/koko-eating-bananas.py",
+      "solved_at": "2025-11-26T00:30:14Z"
+    },
+    {
+      "slug": "search-a-2d-matrix",
+      "title": "Search a 2D Matrix",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/search-a-2d-matrix.py",
+      "solved_at": "2025-11-25T23:11:16Z"
     }
   ]
 }

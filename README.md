@@ -23,6 +23,9 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 14 | 3Sum | Medium | Array, Two Pointers, Sorting | [Link](https://leetcode.com/problems/3sum/) | [Solution](solutions/python3/medium/3sum.py) | 2025-11-23 23:45 UTC |
 | 15 | Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Solution](solutions/python3/hard/trapping-rain-water.py) | 2025-11-24 01:42 UTC |
 | 16 | Binary Search | Easy | Array, Binary Search | [Link](https://leetcode.com/problems/binary-search/) | [Solution](solutions/python3/easy/binary-search.py) | 2025-11-24 02:52 UTC |
+| 17 | Search a 2D Matrix | Medium | Array, Binary Search, Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](solutions/python3/medium/search-a-2d-matrix.py) | 2025-11-25 23:11 UTC |
+| 18 | Koko Eating Bananas | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](solutions/python3/medium/koko-eating-bananas.py) | 2025-11-26 00:30 UTC |
+| 19 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](solutions/python3/medium/find-minimum-in-rotated-sorted-array.py) | 2025-11-26 02:04 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---
