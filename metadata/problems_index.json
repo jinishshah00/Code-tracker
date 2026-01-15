@@ -254,6 +254,113 @@
       "language": "python3",
       "solution_path": "solutions/python3/medium/search-a-2d-matrix.py",
       "solved_at": "2025-11-25T23:11:16Z"
+    },
+    {
+      "slug": "find-peak-element",
+      "title": "Find Peak Element",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/find-peak-element/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/find-peak-element.py",
+      "solved_at": "2026-01-15T21:11:22Z"
+    },
+    {
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/find-minimum-in-rotated-sorted-array-ii.py",
+      "solved_at": "2026-01-15T20:23:45Z"
+    },
+    {
+      "slug": "search-in-rotated-sorted-array-ii",
+      "title": "Search in Rotated Sorted Array II",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/search-in-rotated-sorted-array-ii.py",
+      "solved_at": "2026-01-14T00:56:14Z"
+    },
+    {
+      "slug": "sqrtx",
+      "title": "Sqrt(x)",
+      "difficulty": "Easy",
+      "tags": [
+        "Math",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/sqrtx/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/sqrtx.py",
+      "solved_at": "2026-01-13T21:19:33Z"
+    },
+    {
+      "slug": "median-of-two-sorted-arrays",
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/median-of-two-sorted-arrays.py",
+      "solved_at": "2026-01-13T20:55:36Z"
+    },
+    {
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/find-first-and-last-position-of-element-in-sorted-array.py",
+      "solved_at": "2026-01-13T19:13:31Z"
+    },
+    {
+      "slug": "time-based-key-value-store",
+      "title": "Time Based Key-Value Store",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/time-based-key-value-store/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/time-based-key-value-store.py",
+      "solved_at": "2026-01-13T00:48:57Z"
+    },
+    {
+      "slug": "search-in-rotated-sorted-array",
+      "title": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/search-in-rotated-sorted-array.py",
+      "solved_at": "2026-01-12T23:05:05Z"
     }
   ]
 }

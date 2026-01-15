@@ -26,6 +26,14 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 17 | Search a 2D Matrix | Medium | Array, Binary Search, Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](solutions/python3/medium/search-a-2d-matrix.py) | 2025-11-25 23:11 UTC |
 | 18 | Koko Eating Bananas | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](solutions/python3/medium/koko-eating-bananas.py) | 2025-11-26 00:30 UTC |
 | 19 | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](solutions/python3/medium/find-minimum-in-rotated-sorted-array.py) | 2025-11-26 02:04 UTC |
+| 20 | Search in Rotated Sorted Array | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](solutions/python3/medium/search-in-rotated-sorted-array.py) | 2026-01-12 23:05 UTC |
+| 21 | Time Based Key-Value Store | Medium | Hash Table, String, Binary Search, Design | [Link](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](solutions/python3/medium/time-based-key-value-store.py) | 2026-01-13 00:48 UTC |
+| 22 | Find First and Last Position of Element in Sorted Array | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](solutions/python3/medium/find-first-and-last-position-of-element-in-sorted-array.py) | 2026-01-13 19:13 UTC |
+| 23 | Median of Two Sorted Arrays | Hard | Array, Binary Search, Divide and Conquer | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](solutions/python3/hard/median-of-two-sorted-arrays.py) | 2026-01-13 20:55 UTC |
+| 24 | Sqrt(x) | Easy | Math, Binary Search | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/python3/easy/sqrtx.py) | 2026-01-13 21:19 UTC |
+| 25 | Search in Rotated Sorted Array II | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](solutions/python3/medium/search-in-rotated-sorted-array-ii.py) | 2026-01-14 00:56 UTC |
+| 26 | Find Minimum in Rotated Sorted Array II | Hard | Array, Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](solutions/python3/hard/find-minimum-in-rotated-sorted-array-ii.py) | 2026-01-15 20:23 UTC |
+| 27 | Find Peak Element | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/find-peak-element/) | [Solution](solutions/python3/medium/find-peak-element.py) | 2026-01-15 21:11 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---
