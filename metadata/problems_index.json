@@ -361,6 +361,21 @@
       "language": "python3",
       "solution_path": "solutions/python3/medium/search-in-rotated-sorted-array.py",
       "solved_at": "2026-01-12T23:05:05Z"
+    },
+    {
+      "slug": "minimum-size-subarray-sum",
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/minimum-size-subarray-sum.py",
+      "solved_at": "2026-01-15T23:41:15Z"
     }
   ]
 }

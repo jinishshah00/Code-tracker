@@ -34,6 +34,7 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 25 | Search in Rotated Sorted Array II | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](solutions/python3/medium/search-in-rotated-sorted-array-ii.py) | 2026-01-14 00:56 UTC |
 | 26 | Find Minimum in Rotated Sorted Array II | Hard | Array, Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](solutions/python3/hard/find-minimum-in-rotated-sorted-array-ii.py) | 2026-01-15 20:23 UTC |
 | 27 | Find Peak Element | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/find-peak-element/) | [Solution](solutions/python3/medium/find-peak-element.py) | 2026-01-15 21:11 UTC |
+| 28 | Minimum Size Subarray Sum | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](solutions/python3/medium/minimum-size-subarray-sum.py) | 2026-01-15 23:41 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---
