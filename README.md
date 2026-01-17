@@ -35,6 +35,8 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 26 | Find Minimum in Rotated Sorted Array II | Hard | Array, Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](solutions/python3/hard/find-minimum-in-rotated-sorted-array-ii.py) | 2026-01-15 20:23 UTC |
 | 27 | Find Peak Element | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/find-peak-element/) | [Solution](solutions/python3/medium/find-peak-element.py) | 2026-01-15 21:11 UTC |
 | 28 | Minimum Size Subarray Sum | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](solutions/python3/medium/minimum-size-subarray-sum.py) | 2026-01-15 23:41 UTC |
+| 29 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](solutions/python3/easy/best-time-to-buy-and-sell-stock.py) | 2026-01-16 22:37 UTC |
+| 30 | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](solutions/python3/medium/longest-substring-without-repeating-characters.py) | 2026-01-16 22:54 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---

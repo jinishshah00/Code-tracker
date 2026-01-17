@@ -376,6 +376,33 @@
       "language": "python3",
       "solution_path": "solutions/python3/medium/minimum-size-subarray-sum.py",
       "solved_at": "2026-01-15T23:41:15Z"
+    },
+    {
+      "slug": "longest-substring-without-repeating-characters",
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/longest-substring-without-repeating-characters.py",
+      "solved_at": "2026-01-16T22:54:01Z"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stock",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/best-time-to-buy-and-sell-stock.py",
+      "solved_at": "2026-01-16T22:37:41Z"
     }
   ]
 }
