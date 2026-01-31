@@ -403,6 +403,150 @@
       "language": "python3",
       "solution_path": "solutions/python3/easy/best-time-to-buy-and-sell-stock.py",
       "solved_at": "2026-01-16T22:37:41Z"
+    },
+    {
+      "slug": "remove-nth-node-from-end-of-list",
+      "title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/remove-nth-node-from-end-of-list.py",
+      "solved_at": "2026-01-31T19:18:31Z"
+    },
+    {
+      "slug": "reorder-list",
+      "title": "Reorder List",
+      "difficulty": "Medium",
+      "tags": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/reorder-list/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/reorder-list.py",
+      "solved_at": "2026-01-31T19:09:37Z"
+    },
+    {
+      "slug": "linked-list-cycle",
+      "title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/linked-list-cycle/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/linked-list-cycle.py",
+      "solved_at": "2026-01-31T18:49:57Z"
+    },
+    {
+      "slug": "merge-two-sorted-lists",
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/merge-two-sorted-lists.py",
+      "solved_at": "2026-01-31T18:28:29Z"
+    },
+    {
+      "slug": "reverse-linked-list",
+      "title": "Reverse Linked List",
+      "difficulty": "Easy",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/reverse-linked-list/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/reverse-linked-list.py",
+      "solved_at": "2026-01-31T18:11:44Z"
+    },
+    {
+      "slug": "sliding-window-maximum",
+      "title": "Sliding Window Maximum",
+      "difficulty": "Hard",
+      "tags": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/sliding-window-maximum/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/sliding-window-maximum.py",
+      "solved_at": "2026-01-30T23:44:23Z"
+    },
+    {
+      "slug": "repeated-dna-sequences",
+      "title": "Repeated DNA Sequences",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Sliding Window",
+        "Rolling Hash",
+        "Hash Function"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/repeated-dna-sequences/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/repeated-dna-sequences.py",
+      "solved_at": "2026-01-30T22:54:39Z"
+    },
+    {
+      "slug": "minimum-window-substring",
+      "title": "Minimum Window Substring",
+      "difficulty": "Hard",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/minimum-window-substring/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/minimum-window-substring.py",
+      "solved_at": "2026-01-30T22:40:27Z"
+    },
+    {
+      "slug": "permutation-in-string",
+      "title": "Permutation in String",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Sliding Window"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/permutation-in-string/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/permutation-in-string.py",
+      "solved_at": "2026-01-30T21:22:16Z"
+    },
+    {
+      "slug": "longest-repeating-character-replacement",
+      "title": "Longest Repeating Character Replacement",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/longest-repeating-character-replacement.py",
+      "solved_at": "2026-01-30T20:18:54Z"
     }
   ]
 }

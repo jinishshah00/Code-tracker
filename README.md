@@ -37,6 +37,16 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 28 | Minimum Size Subarray Sum | Medium | Array, Binary Search, Sliding Window, Prefix Sum | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](solutions/python3/medium/minimum-size-subarray-sum.py) | 2026-01-15 23:41 UTC |
 | 29 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](solutions/python3/easy/best-time-to-buy-and-sell-stock.py) | 2026-01-16 22:37 UTC |
 | 30 | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](solutions/python3/medium/longest-substring-without-repeating-characters.py) | 2026-01-16 22:54 UTC |
+| 31 | Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window | [Link](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](solutions/python3/medium/longest-repeating-character-replacement.py) | 2026-01-30 20:18 UTC |
+| 32 | Permutation in String | Medium | Hash Table, Two Pointers, String, Sliding Window | [Link](https://leetcode.com/problems/permutation-in-string/) | [Solution](solutions/python3/medium/permutation-in-string.py) | 2026-01-30 21:22 UTC |
+| 33 | Minimum Window Substring | Hard | Hash Table, String, Sliding Window | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Solution](solutions/python3/hard/minimum-window-substring.py) | 2026-01-30 22:40 UTC |
+| 34 | Repeated DNA Sequences | Medium | Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function | [Link](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution](solutions/python3/medium/repeated-dna-sequences.py) | 2026-01-30 22:54 UTC |
+| 35 | Sliding Window Maximum | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](solutions/python3/hard/sliding-window-maximum.py) | 2026-01-30 23:44 UTC |
+| 36 | Reverse Linked List | Easy | Linked List, Recursion | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Solution](solutions/python3/easy/reverse-linked-list.py) | 2026-01-31 18:11 UTC |
+| 37 | Merge Two Sorted Lists | Easy | Linked List, Recursion | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](solutions/python3/easy/merge-two-sorted-lists.py) | 2026-01-31 18:28 UTC |
+| 38 | Linked List Cycle | Easy | Hash Table, Linked List, Two Pointers | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Solution](solutions/python3/easy/linked-list-cycle.py) | 2026-01-31 18:49 UTC |
+| 39 | Reorder List | Medium | Linked List, Two Pointers, Stack, Recursion | [Link](https://leetcode.com/problems/reorder-list/) | [Solution](solutions/python3/medium/reorder-list.py) | 2026-01-31 19:09 UTC |
+| 40 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](solutions/python3/medium/remove-nth-node-from-end-of-list.py) | 2026-01-31 19:18 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---
