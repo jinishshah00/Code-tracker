@@ -47,6 +47,10 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 38 | Linked List Cycle | Easy | Hash Table, Linked List, Two Pointers | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Solution](solutions/python3/easy/linked-list-cycle.py) | 2026-01-31 18:49 UTC |
 | 39 | Reorder List | Medium | Linked List, Two Pointers, Stack, Recursion | [Link](https://leetcode.com/problems/reorder-list/) | [Solution](solutions/python3/medium/reorder-list.py) | 2026-01-31 19:09 UTC |
 | 40 | Remove Nth Node From End of List | Medium | Linked List, Two Pointers | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](solutions/python3/medium/remove-nth-node-from-end-of-list.py) | 2026-01-31 19:18 UTC |
+| 41 | Copy List with Random Pointer | Medium | Hash Table, Linked List | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](solutions/python3/medium/copy-list-with-random-pointer.py) | 2026-02-02 19:11 UTC |
+| 42 | Add Two Numbers | Medium | Linked List, Math, Recursion | [Link](https://leetcode.com/problems/add-two-numbers/) | [Solution](solutions/python3/medium/add-two-numbers.py) | 2026-02-02 19:28 UTC |
+| 43 | Find the Duplicate Number | Medium | Array, Two Pointers, Binary Search, Bit Manipulation | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](solutions/python3/medium/find-the-duplicate-number.py) | 2026-02-02 20:21 UTC |
+| 44 | LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List | [Link](https://leetcode.com/problems/lru-cache/) | [Solution](solutions/python3/medium/lru-cache.py) | 2026-02-02 20:47 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---

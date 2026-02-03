@@ -547,6 +547,63 @@
       "language": "python3",
       "solution_path": "solutions/python3/medium/longest-repeating-character-replacement.py",
       "solved_at": "2026-01-30T20:18:54Z"
+    },
+    {
+      "slug": "lru-cache",
+      "title": "LRU Cache",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/lru-cache/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/lru-cache.py",
+      "solved_at": "2026-02-02T20:47:20Z"
+    },
+    {
+      "slug": "find-the-duplicate-number",
+      "title": "Find the Duplicate Number",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/find-the-duplicate-number.py",
+      "solved_at": "2026-02-02T20:21:02Z"
+    },
+    {
+      "slug": "add-two-numbers",
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "tags": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/add-two-numbers/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/add-two-numbers.py",
+      "solved_at": "2026-02-02T19:28:12Z"
+    },
+    {
+      "slug": "copy-list-with-random-pointer",
+      "title": "Copy List with Random Pointer",
+      "difficulty": "Medium",
+      "tags": [
+        "Hash Table",
+        "Linked List"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "language": "python3",
+      "solution_path": "solutions/python3/medium/copy-list-with-random-pointer.py",
+      "solved_at": "2026-02-02T19:11:07Z"
     }
   ]
 }
