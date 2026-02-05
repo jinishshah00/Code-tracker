@@ -604,6 +604,78 @@
       "language": "python3",
       "solution_path": "solutions/python3/medium/copy-list-with-random-pointer.py",
       "solved_at": "2026-02-02T19:11:07Z"
+    },
+    {
+      "slug": "diameter-of-binary-tree",
+      "title": "Diameter of Binary Tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/diameter-of-binary-tree.py",
+      "solved_at": "2026-02-05T01:34:40Z"
+    },
+    {
+      "slug": "maximum-depth-of-binary-tree",
+      "title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/maximum-depth-of-binary-tree.py",
+      "solved_at": "2026-02-05T01:16:08Z"
+    },
+    {
+      "slug": "invert-binary-tree",
+      "title": "Invert Binary Tree",
+      "difficulty": "Easy",
+      "tags": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/invert-binary-tree/",
+      "language": "python3",
+      "solution_path": "solutions/python3/easy/invert-binary-tree.py",
+      "solved_at": "2026-02-04T23:22:34Z"
+    },
+    {
+      "slug": "reverse-nodes-in-k-group",
+      "title": "Reverse Nodes in k-Group",
+      "difficulty": "Hard",
+      "tags": [
+        "Linked List",
+        "Recursion"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/reverse-nodes-in-k-group.py",
+      "solved_at": "2026-02-04T23:14:57Z"
+    },
+    {
+      "slug": "merge-k-sorted-lists",
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "tags": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ],
+      "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "language": "python3",
+      "solution_path": "solutions/python3/hard/merge-k-sorted-lists.py",
+      "solved_at": "2026-02-04T22:39:06Z"
     }
   ]
 }

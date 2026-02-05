@@ -51,6 +51,11 @@ Daily, an automated workflow captures newly accepted LeetCode solutions and reco
 | 42 | Add Two Numbers | Medium | Linked List, Math, Recursion | [Link](https://leetcode.com/problems/add-two-numbers/) | [Solution](solutions/python3/medium/add-two-numbers.py) | 2026-02-02 19:28 UTC |
 | 43 | Find the Duplicate Number | Medium | Array, Two Pointers, Binary Search, Bit Manipulation | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](solutions/python3/medium/find-the-duplicate-number.py) | 2026-02-02 20:21 UTC |
 | 44 | LRU Cache | Medium | Hash Table, Linked List, Design, Doubly-Linked List | [Link](https://leetcode.com/problems/lru-cache/) | [Solution](solutions/python3/medium/lru-cache.py) | 2026-02-02 20:47 UTC |
+| 45 | Merge k Sorted Lists | Hard | Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](solutions/python3/hard/merge-k-sorted-lists.py) | 2026-02-04 22:39 UTC |
+| 46 | Reverse Nodes in k-Group | Hard | Linked List, Recursion | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](solutions/python3/hard/reverse-nodes-in-k-group.py) | 2026-02-04 23:14 UTC |
+| 47 | Invert Binary Tree | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Link](https://leetcode.com/problems/invert-binary-tree/) | [Solution](solutions/python3/easy/invert-binary-tree.py) | 2026-02-04 23:22 UTC |
+| 48 | Maximum Depth of Binary Tree | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](solutions/python3/easy/maximum-depth-of-binary-tree.py) | 2026-02-05 01:16 UTC |
+| 49 | Diameter of Binary Tree | Easy | Tree, Depth-First Search, Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](solutions/python3/easy/diameter-of-binary-tree.py) | 2026-02-05 01:34 UTC |
 <!-- LEETCODE_TABLE_END -->
 
 ---
